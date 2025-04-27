@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Indian Numeral Formatter</string>
+    <string name="app_title">Indian Numeral Formatter</string>
+
+    <string name="words_to_number_button">Words to Number</string>
+    <string name="number_to_words_button">Number to Words</string>
+
+    <string name="words_to_number_title">Words to Number</string>
+    <string name="number_to_words_title">Number to Words</string>
+
+    <string name="enter_number_hint">Example: 1234567890</string>
+    <string name="enter_words_hint">Example: One Arab</string>
+
+    <string name="convert_button_label">Convert</string>
+
+
+</resources>
